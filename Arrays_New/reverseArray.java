@@ -21,7 +21,7 @@ public class reverseArray {
             
         }
         for(int i=0;i<size;i++)
-        {
+        {git
             System.out.println(arr[i]);
             
         }
